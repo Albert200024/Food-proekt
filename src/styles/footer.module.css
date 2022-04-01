@@ -1,0 +1,30 @@
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: #0D0F13;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerInfo {
+    width: 25%;
+    height: 100px;
+}
+
+.footerIqon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.footerIqon svg {
+    color: white;
+    font-size: 65px;
+}
+
+.footerInfo p{
+    text-align: center;
+    color: white;
+}
